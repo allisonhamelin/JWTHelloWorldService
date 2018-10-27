@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-service",
+  "version": "1.0.0",
+  "description": "Hello World Service API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allisonhamelin/HelloWorldService.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allisonhamelin/HelloWorldService/issues"
+  },
+  "homepage": "https://github.com/allisonhamelin/HelloWorldService#readme"
+}
